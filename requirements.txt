@@ -1,0 +1,29 @@
+# Core Dependencies
+python-dotenv
+langchain-core
+langchain-google-genai
+google-generativeai
+
+# Web & API
+requests
+urllib3
+
+# GUI Framework
+PyQt5
+PyQt5-Qt5
+PyQt5-sip
+
+# Text-to-Speech
+gTTS
+pygame
+
+# System Information
+distro
+psutil
+
+# Image Processing
+Pillow
+
+# Additional Utilities
+python-dateutil
+pytz

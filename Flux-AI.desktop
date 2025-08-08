@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=2.0
+Type=Application
+Name=Flux AI Chat
+Comment=Professional Linux AI Assistant with Gemini
+Exec=/usr/share/flux-ai-chat/python-env/bin/python3 /usr/share/flux-ai-chat/flux_ai.py
+Icon=/usr/share/flux-ai-chat/icons/icon.png
+Terminal=false
+Categories=Development;Utility;AI;System;
+Keywords=ai;chat;linux;assistant;gemini;flux;
